@@ -1,0 +1,524 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+    position: relative;
+}
+.enfant{
+    height: 15px;
+    width: 50px;
+    /* background-color: red; */
+    position: absolute;
+    left: 200px;
+    top: 100px;
+}
+nav{
+     padding: 10px 0px 10px 0px;
+     box-shadow: 3px 3px 3px #00353F;
+     background-color: white;
+}
+.menu1 ul{
+     list-style-type: none; 
+     justify-content: center; 
+     display: flex; 
+    
+}
+.menu1{
+    margin-top: -40px;
+    margin-left: 90px;
+}
+.menu2 ul{
+     float: right; 
+    display: flex;
+    list-style-type: none;
+    
+
+}
+.menu1 ul li{
+    background-color: #00353F;
+}
+.menu1 ul li a{
+    color: white;
+}
+.menu2 ul li{
+    margin-top: -50px;
+    
+}
+a{
+     text-decoration: none; 
+    display:block;    
+     min-width: 80px;  
+    text-align: center;
+}
+.logo1{
+    margin-top: 30px;
+    margin-left: 130px;
+}
+
+.text1{
+    margin-left: 220px;
+    margin-top: 170px;
+
+}
+
+h1{
+    color: #00353F;
+    margin-top: -5px;
+
+}
+.logo2{
+    padding-top: -100px;
+    padding-left: 660px;
+}
+.logo2{
+    margin-top: -330px;
+    margin-left: -140px;
+}
+/*.text2{
+    margin-left: 200px;
+    margin-right: 60px;
+
+    background-color: #00353F;
+    color: white;
+    cursor: pointez;
+    border-radius:5px;
+    display-inline:block;
+    text-aligner:centre;
+    text-decorration:none
+    pardding: 10px 20px;
+    padding: 10px;
+    border- solid white;
+
+} */
+.bouton{
+
+    background-color: #00353F;
+    color: white;
+   width: 100px;
+    border-radius:5px;
+    display: inline-block;
+    text-align:centre;
+    text-decoration:none;
+    padding: 10px 20px;
+    padding: 10px;
+    border:2px solid white;
+    margin-left: 300px;
+} 
+.text3{
+    margin-left: 500px;
+    margin-top:-50px;
+    background-color: white;
+    color: #00353F;
+    
+    
+}
+
+/* .text4{
+padding: 100px;
+margin-right: 50%;
+
+} */
+h3{
+    margin-left: 160px; 
+}
+.text4{
+    background-color: #00353F;
+    color: white;
+    margin-right: 70%px;
+    padding: 50px;
+    
+
+    
+}
+.text5{
+    margin-left: 360px;
+    color:#00353F;
+    margin-top: 70px;
+
+
+    
+}
+.mail{
+    /* margin-top: 50px;
+    margin-left: 370px; */
+    font-size: 30px;
+    text-align: center;
+}
+.logo3{
+    margin-left: 160px;
+     padding-top: 200px; 
+     margin-top: -200px; 
+     
+}
+.logo3 .icon{
+    margin-top: 100px;
+}
+/* .text4{
+    margin-left: 100px; 
+}*/
+.logo7{
+    margin-left: 660PX;
+    margin-top: -366px;
+    
+}
+
+.faye{
+    margin-left: -10px;
+    margin-top: 20px;
+}
+.ibou{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 24px;
+}
+.manager{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.malic{
+    margin-left: -700px;
+    margin-top: -20px;
+}
+.ousmane{
+    margin-left: 1400px;
+    margin-top: -20px;
+}
+.marie{
+    margin-top: -20px;
+}
+.mark{
+    text-align: center;
+    margin-top: -190px;
+     height: 90vh; 
+    color: #00353F;
+}
+.mark hr{
+    margin-left: 38%; 
+    
+}
+.foeme{
+margin: 70px;
+background-color: #00353F;
+color:  white;
+text-align: left;
+padding: 40px;
+}
+.foeme input {
+    width: 75%;
+    margin-left: 10%;
+    height: 20px;
+}
+.foeme textarea{
+    width: 75%;
+    margin-left: 10%;
+    height: 60px;
+
+}
+.foeme label{
+    margin-left: 10%;
+
+}
+.modou,.fatou,.issa{
+    margin-left: 100px;
+}
+.modou{
+    margin-left: 300px;
+}
+.barr{
+    margin-left: 55px;
+    height: 8px;
+    background-color: #00353F;
+    width: 155px;
+    border-radius: 20px;
+}
+
+.barr2{
+    margin-left: -50px;
+    height: 10px;
+    background-color: #00353F;
+    width: 200px;
+    border-radius: 20px;
+}
+.barre{
+    margin-left: 300px;
+    margin-top: 200px;
+}
+.nom{
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.nome{
+    margin-left: 700px;
+    margin-top: -160px;
+}
+.noms{
+    margin-left: 700px;
+    margin-top: 20px;
+}
+
+
+.icon{
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 100px;
+}
+.ri-arrow-left-s-fill{
+ margin-top: 100px;
+}
+
+.iconne{
+    margin-left: 120px;
+}
+.iconne{
+    display: flex;
+}
+.Partenaire{
+     background-color: aqua; 
+       margin: 60px;
+    border-radius: 10px;
+    /* margin-top: 100px; 
+       */
+  padding: 40px; 
+/* height: 10px;*/
+width: 80%; 
+right: 15px;  
+}
+.nle{
+   
+    margin-left: 100px;
+}
+.ndoye{
+    margin-left: 200px;
+}
+.marie{
+    margin-left: 150px;
+    margin-top: -230PX;
+}
+.binta{
+    margin-left: 133px;
+    margin-top: -10PX;
+}
+.border1{
+    border: 1px blue solid;
+    padding:140px;
+    margin-bottom: 15px;
+    width: 0px;
+    padding-left: 100px;
+    display: flex;
+    margin-left: 100PX;
+    
+}
+.moussa{
+   margin-left: -285px;
+}
+.border4{
+    border: 1px blue solid;
+    padding: -30px;
+    margin-bottom: 15px;
+     width: 0%;
+    padding-right: 300px;
+    display: flex;
+    margin-left: 600px;
+     height: 290px; 
+    margin-top: -120px;
+    
+}
+.baye1{
+    margin-left: 1330px;
+    margin-top: 10px;
+   
+    
+}
+.baye2{
+    margin-left: 1400px;
+    margin-top:-20px;
+    
+}
+.border5{
+    border: 1px #00353F solid ;
+    padding: 5px;
+    margin-bottom: 2px;
+    width: 5px;
+    padding-right: 300px;
+    margin-left: 30px;
+        height: 30px;
+    margin-top: -7px;
+    margin-left: 470px;
+    
+}
+.logo6{
+     margin-top: -400PX;
+    margin-left: 150PX;
+     
+}
+/* .border2{
+    margin-top: -100px;
+} */
+footer{
+    
+    background-color: black; 
+    color: white;
+   padding: 50px;  
+   margin-top: -30px; 
+}
+footer .container{
+    display: flex;
+    justify-content: space-between;
+  
+
+}
+.sociale{
+    display: flex;
+    
+    justify-content: space-around;
+     
+    
+    
+
+     margin: 50PX auto; 
+
+     
+    background-color: white; 
+    width: 100px;
+    padding: 1px;
+    color: #00353F;
+    border-radius: 3px;
+
+    
+}
+.div3{
+    color: blue;
+    
+}
+ul li{
+
+    color: #00353F;
+     background-color: white; 
+     padding: 2px; 
+    display:flex;
+     justify-content: space-around;
+     /* border-radius: 3px; */
+    
+     
+}
+/* .sociale{
+    display: flex;
+    justify-content: space-around;
+    margin-left:500px;
+    color: #00353F;
+    background-color: blanchedalmond;
+    width: 100px;
+    
+    padding: 1px;
+    border-radius: 3PX;
+
+
+} */
+ /* .cols{
+    margin-top: -200px;
+    margin-left: -100px;
+    color: #00353F;
+} */
+.style{
+    margin-top: 5px;
+} 
+.modale {
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+    font-size: 11px;
+
+}
+.mode{
+    margin-top: -26px;
+}
+.made{
+    margin-top: 90px;
+    
+}
+.noms{
+    margin-left: -177px;
+    margin-top: -120px;
+}
+.names{
+    margin-top: -60px;
+    margin-left: 2px;
+}
+.temoignages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.client{
+    border: 2px solid #00353F;
+    margin: 40px;
+    padding: 20px;
+    text-align: center;
+    width: 20%;
+
+
+}
+.message-client{
+    text-align: justify;
+}
+.client img{
+    margin-top: -100px;
+}
+.top{
+    /* text-align: center;
+    align-items: center;
+    display: inline;
+    text-align: justify;
+    text-decoration: dashed;
+    margin-left: -300px;*/
+    display: flex;
+    justify-content: center;
+    margin-left: 10PX;
+ margin-top: 50px;
+    
+}
+
+
+
+.reso{
+    margin-left: 80px;
+    border: 1px solid #00353F;
+    color: #00353F;
+    border-radius: 3px;
+    width: 17%;
+    text-align: center;
+    padding: 0PX;
+    
+}
+.commence {
+    margin-left: 30px;
+    background-color: #00353F;
+    color: white;
+    border-radius: 3px; 
+    width: 16%;
+text-align: center;
+} 
+.HEADER h1{
+    font-size: 40px;
+    margin-top: -27px;
+    color: #00353F;
+}
+.modou{
+    font-size: 50px;
+}
+.mark h1{
+    font-size: 50px;
+     margin-left: -30px; 
+
+}
+.logo img{
+    margin-top: 100px;
+}
+
+
+
